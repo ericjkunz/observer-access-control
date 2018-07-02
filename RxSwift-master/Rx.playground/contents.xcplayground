@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='osx' display-mode='rendered' executeOnSourceChanges='false'>
+    <pages>
+        <page name='Table_of_Contents'/>
+        <page name='00 return Observable'/>
+        <page name='01 computed property'/>
+        <page name='02 fileprivate onNext'/>
+        <page name='03 input output associated types'/>
+        <page name='05 input output protocols'/>
+        <page name='04 hidden reference'/>
+    </pages>
+</playground>
